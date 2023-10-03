@@ -8,7 +8,7 @@ United States Geological Survey, or USGS is interested in building a new set of 
 
 # First, Get the dataset. 
 
-The GeoJSON Summary Format (usgs.gov) page I used to choose a dataset to visualize.
+The GeoJSON Summary Format (usgs.gov) page is used to choose a dataset to visualize.
 
 # Second, Import and visualize the data.
 
