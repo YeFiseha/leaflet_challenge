@@ -14,7 +14,7 @@ The GeoJSON Summary Format (usgs.gov) page is used to choose a dataset to visual
 
 Using Leaflet, a map is created plotting all the earthquakes from the dataset based on their longitude and latitude.
 
-•	The data markers reflect the magnitude of the earthquake by size and the depth of the earthquake by color. 
+•	The data markers reflect the magnitude of the earthquake by size and the depth of the earthquake by color.
 
 •	Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color.
 
